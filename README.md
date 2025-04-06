@@ -1,4 +1,4 @@
-## Repositori khusus untuk laporan praktikum Big Data.
+## Repositori khusus untuk laporan praktikum Pemrograman Mobile.
 
 
 Tafrikhan Rizki Praditya
